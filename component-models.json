@@ -145,6 +145,25 @@
     ]
   },
   {
+    "id": "test",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "div:nth-child(1)>div:nth-child(1)",
+        "label": "Input",
+        "value": ""
+      },
+      {
+        "component": "text",
+        "name": "class",
+        "value": "",
+        "label": "Class",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
     "id": "quote",
     "fields": [
       {
