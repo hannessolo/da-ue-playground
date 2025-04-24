@@ -173,6 +173,24 @@
           }
         },
         {
+          "title": "Test Block",
+          "id": "test",
+          "plugins": {
+            "da": {
+              "unsafeHTML": "<div class=\"test\"><div><div></div></div></div>"
+            }
+          }
+        },
+        {
+          "title": "Test Block Boolean",
+          "id": "test-bool",
+          "plugins": {
+            "da": {
+              "unsafeHTML": "<div class=\"test\"><div><div></div></div></div>"
+            }
+          }
+        },
+        {
           "title": "Tabs Item",
           "id": "tabs-item",
           "plugins": {
