@@ -168,15 +168,6 @@
           "id": "test",
           "plugins": {
             "da": {
-              "unsafeHTML": "<div class=\"test\"><div><div><p></p></div><div></div></div></div>"
-            }
-          }
-        },
-        {
-          "title": "Test Block",
-          "id": "test",
-          "plugins": {
-            "da": {
               "unsafeHTML": "<div class=\"test\"><div><div></div></div></div>"
             }
           }
