@@ -164,7 +164,7 @@
     ]
   },
   {
-    "id": "test",
+    "id": "test-bool",
     "fields": [
       {
         "component": "text",
@@ -177,7 +177,7 @@
         "component": "boolean",
         "name": "classes_green",
         "value": "",
-        "label": "Classes",
+        "label": "Classes: Green",
         "valueType": "boolean"
       }
     ]
