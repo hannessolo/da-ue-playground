@@ -177,7 +177,7 @@
           "id": "test-bool",
           "plugins": {
             "da": {
-              "unsafeHTML": "<div class=\"test\"><div><div></div></div></div>"
+              "unsafeHTML": "<div class=\"test-bool\"><div><div></div></div></div>"
             }
           }
         },
