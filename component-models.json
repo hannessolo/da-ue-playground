@@ -150,7 +150,7 @@
       {
         "component": "text",
         "valueType": "string",
-        "name": "div:nth-child(1)>div:nth-child(1)",
+        "name": "div:nth-child(1)>div:nth-child(1)>p:nth-child(1)",
         "label": "Input",
         "value": ""
       },
@@ -169,7 +169,7 @@
       {
         "component": "text",
         "valueType": "string",
-        "name": "div:nth-child(1)>div:nth-child(1)",
+        "name": "div:nth-child(1)>div:nth-child(1)>p:nth-child(1)",
         "label": "Input",
         "value": ""
       },
