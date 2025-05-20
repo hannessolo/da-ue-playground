@@ -110,7 +110,7 @@
           "id": "columns-row",
           "plugins": {
             "da": {
-              "unsafeHTML": "<div></div>"
+              "name": "columns-row"
             }
           }
         },
