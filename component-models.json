@@ -85,7 +85,8 @@
         "component": "number",
         "valueType": "number",
         "name": "columns",
-        "label": "Number of Columns"
+        "label": "Number of Columns",
+        "value": 2
       }
     ]
   },
