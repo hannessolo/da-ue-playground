@@ -79,6 +79,17 @@
     ]
   },
   {
+    "id": "columns",
+    "fields": [
+      {
+        "component": "number",
+        "valueType": "number",
+        "name": "columns",
+        "label": "Number of Columns"
+      }
+    ]
+  },
+  {
     "id": "carousel-item",
     "fields": [
       {
