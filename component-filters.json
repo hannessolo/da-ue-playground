@@ -52,5 +52,11 @@
     "components": [
       "tabs-item"
     ]
+  },
+  {
+    "id": "columns",
+    "components": [
+      "columns-row"
+    ]
   }
 ]

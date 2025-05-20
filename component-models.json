@@ -79,6 +79,17 @@
     ]
   },
   {
+    "id": "columns-cell",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "root",
+        "label": "Text",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
     "id": "carousel-item",
     "fields": [
       {

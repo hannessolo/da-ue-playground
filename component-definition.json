@@ -95,6 +95,35 @@
           "model": "card"
         },
         {
+          "title": "Columns",
+          "id": "columns",
+          "plugins": {
+            "da": {
+              "name": "columns",
+              "rows": 1,
+              "columns": 2
+            }
+          }
+        },
+        {
+          "title": "Columns Row",
+          "id": "columns-row",
+          "plugins": {
+            "da": {
+              "unsafeHTML": "<div></div>"
+            }
+          }
+        },
+        {
+          "title": "Columns Cell",
+          "id": "columns-cell",
+          "plugins": {
+            "da": {
+              "unsafeHTML": "<div></div>"
+            }
+          }
+        },
+        {
           "title": "Carousel",
           "id": "carousel",
           "plugins": {
