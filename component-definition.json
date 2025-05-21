@@ -101,7 +101,8 @@
             "da": {
               "name": "columns",
               "rows": 1,
-              "columns": 2
+              "columns": 2,
+              "behaviour": "columns"
             }
           }
         },
