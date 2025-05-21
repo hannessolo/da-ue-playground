@@ -91,6 +91,18 @@
     ]
   },
   {
+    "id": "columns-cell",
+    "fields": [
+      {
+        "component": "richtext",
+        "valueType": "string",
+        "name": "div:nth-child(1)",
+        "label": "Text Content",
+        "value": ""
+      }
+    ]
+  },
+  {
     "id": "carousel-item",
     "fields": [
       {
