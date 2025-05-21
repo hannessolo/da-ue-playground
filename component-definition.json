@@ -111,7 +111,8 @@
           "id": "columns-row",
           "plugins": {
             "da": {
-              "name": "columns-row"
+              "name": "columns-row",
+              "behaviour": "columns-row"
             }
           }
         },
@@ -120,7 +121,8 @@
           "id": "columns-cell",
           "plugins": {
             "da": {
-              "unsafeHTML": "<div></div>"
+              "name": "columns-cell",
+              "behaviour": "columns-cell"
             }
           }
         },
