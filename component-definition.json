@@ -112,7 +112,8 @@
           "plugins": {
             "da": {
               "name": "columns-row",
-              "behaviour": "columns-row"
+              "behaviour": "columns-row",
+              "unsafeHTML": "<picture><source></source><source></source><img></img></picture><p>Test</p>"
             }
           }
         },

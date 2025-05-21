@@ -94,6 +94,13 @@
     "id": "columns-cell",
     "fields": [
       {
+        "component": "reference",
+        "valueType": "string",
+        "name": "picture:nth-child(1)>img:nth-child(3)[src]",
+        "label": "Image",
+        "multi": false
+      },
+      {
         "component": "richtext",
         "valueType": "string",
         "name": "root",
