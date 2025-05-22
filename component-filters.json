@@ -67,7 +67,7 @@
   {
     "id": "custom-columns",
     "components": [
-      "columns-row"
+      "custom-columns-row"
     ]
   },
   {
