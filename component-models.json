@@ -86,7 +86,11 @@
         "valueType": "number",
         "name": "columns",
         "label": "Number of Columns",
-        "value": 2
+        "value": 2,
+        "validation": {
+          "numberMin": 0,
+          "numberMax": 6
+        }
       }
     ]
   },
@@ -117,7 +121,11 @@
         "valueType": "number",
         "name": "columns",
         "label": "Number of Columns",
-        "value": 2
+        "value": 2,
+        "validation": {
+          "numberMin": 0,
+          "numberMax": 6
+        }
       }
     ]
   },
