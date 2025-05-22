@@ -132,7 +132,7 @@
           "id": "custom-columns",
           "plugins": {
             "da": {
-              "name": "columns",
+              "name": "custom-columns",
               "rows": 1,
               "columns": 2,
               "behaviour": "columns"
