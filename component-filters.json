@@ -13,6 +13,7 @@
       "cards",
       "carousel",
       "columns",
+      "custom-columns",
       "embed",
       "fragment",
       "form",
@@ -61,6 +62,16 @@
   },
   {
     "id": "columns-row",
+    "components": []
+  },
+  {
+    "id": "custom-columns",
+    "components": [
+      "columns-row"
+    ]
+  },
+  {
+    "id": "custom-columns-row",
     "components": []
   }
 ]
