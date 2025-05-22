@@ -128,6 +128,39 @@
           }
         },
         {
+          "title": "Custom Columns",
+          "id": "custom-columns",
+          "plugins": {
+            "da": {
+              "name": "columns",
+              "rows": 1,
+              "columns": 2,
+              "behaviour": "columns"
+            }
+          }
+        },
+        {
+          "title": "Custom Columns Row",
+          "id": "custom-columns-row",
+          "plugins": {
+            "da": {
+              "name": "custom-columns-row",
+              "behaviour": "columns-row",
+              "unsafeHTML": "<p>Custom</p>"
+            }
+          }
+        },
+        {
+          "title": "Columns Cell",
+          "id": "custom-columns-cell",
+          "plugins": {
+            "da": {
+              "name": "custom-columns-cell",
+              "behaviour": "columns-cell"
+            }
+          }
+        },
+        {
           "title": "Carousel",
           "id": "carousel",
           "plugins": {
