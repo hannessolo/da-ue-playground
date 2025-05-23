@@ -121,7 +121,7 @@
           "id": "columns-cell",
           "plugins": {
             "da": {
-              "unsafeHTML": "<div><picture><source></source><source></source><img></img></picture><p>Test</p></div>",
+              "unsafeHTML": "<div></div>",
               "behaviour": "columns-cell"
             }
           }
@@ -149,7 +149,7 @@
           }
         },
         {
-          "title": "Columns Cell",
+          "title": "Custom Columns Cell",
           "id": "custom-columns-cell",
           "plugins": {
             "da": {

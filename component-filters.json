@@ -66,6 +66,13 @@
     "components": []
   },
   {
+    "id": "columns-cell",
+    "components": [
+      "text",
+      "image"
+    ]
+  },
+  {
     "id": "custom-columns",
     "components": [
       "custom-columns-row"
