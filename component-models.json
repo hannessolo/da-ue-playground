@@ -142,6 +142,22 @@
     ]
   },
   {
+    "id": "container-columns",
+    "fields": [
+      {
+        "component": "number",
+        "valueType": "number",
+        "name": "columns",
+        "label": "Number of Columns",
+        "value": 2,
+        "validation": {
+          "numberMin": 1,
+          "numberMax": 6
+        }
+      }
+    ]
+  },
+  {
     "id": "carousel-item",
     "fields": [
       {
