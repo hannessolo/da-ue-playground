@@ -14,6 +14,7 @@
       "carousel",
       "columns",
       "custom-columns",
+      "container-columns",
       "embed",
       "fragment",
       "form",
@@ -71,7 +72,18 @@
     ]
   },
   {
-    "id": "custom-columns-row",
+    "id": "container-columns-row",
     "components": []
+  },
+  {
+    "id": "container-columns-row",
+    "components": []
+  },
+  {
+    "id": "container-columns-cell",
+    "components": [
+      "text",
+      "image"
+    ]
   }
 ]
