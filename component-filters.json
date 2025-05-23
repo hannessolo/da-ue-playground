@@ -77,20 +77,5 @@
     "components": [
       "custom-columns-row"
     ]
-  },
-  {
-    "id": "container-columns-row",
-    "components": []
-  },
-  {
-    "id": "container-columns-row",
-    "components": []
-  },
-  {
-    "id": "container-columns-cell",
-    "components": [
-      "text",
-      "image"
-    ]
   }
 ]

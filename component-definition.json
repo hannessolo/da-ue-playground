@@ -159,38 +159,6 @@
           }
         },
         {
-          "title": "Container Columns",
-          "id": "container-columns",
-          "plugins": {
-            "da": {
-              "name": "container-columns",
-              "rows": 1,
-              "columns": 2,
-              "behaviour": "columns"
-            }
-          }
-        },
-        {
-          "title": "Container Columns Row",
-          "id": "container-columns-row",
-          "plugins": {
-            "da": {
-              "name": "container-columns-row",
-              "behaviour": "columns-row"
-            }
-          }
-        },
-        {
-          "title": "Container Columns Cell",
-          "id": "container-columns-cell",
-          "plugins": {
-            "da": {
-              "unsafeHTML": "<div></div>",
-              "behaviour": "columns-cell"
-            }
-          }
-        },
-        {
           "title": "Carousel",
           "id": "carousel",
           "plugins": {
